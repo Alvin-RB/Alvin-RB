@@ -2,7 +2,6 @@
 
 🔭 PhD Student in Epidemiology and Health Data Science, Division of Psychiatry, UCL
 
-### Under construction
 
 
 <!--
